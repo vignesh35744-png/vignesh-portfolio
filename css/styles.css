@@ -1,0 +1,18 @@
+* {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.banner{
+    background-image: url(/portfolio/img/pexels-jeshoots-238118.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px;
+}
+.skills-padding{
+  padding: 70px 0;
+  width: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
