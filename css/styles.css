@@ -5,7 +5,7 @@
   font-style: normal;
 }
 .banner{
-    background-image: url(/portfolio/img/pexels-jeshoots-238118.jpg);
+    background-image: url(../portfolio/img/pexels-jeshoots-238118.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 250px;
